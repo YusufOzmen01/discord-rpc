@@ -28,7 +28,7 @@ Orta, belki de giriş düzeyinde bir Python bilgisine ihtiyacınız olacak. Eğe
 
 ### 1- Python
 
-İlk gereken uygulamamız Python. Kullandığımız bu kod, çalıştırılmak için Python Interpeter (yorumlayıcısı) istiyor. Kurmasıise çok kolay!
+İlk gereken uygulamamız Python. Kullandığımız bu kod, çalıştırılmak için Python Interpeter (yorumlayıcısı) kurmamız gerekmekte. Kurması ise çok kolay!
 
 #### Linux - Ubuntu, Debian
 
