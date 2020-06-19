@@ -10,11 +10,11 @@ Discord Rich Presence, Discord'daki '... Oynuyor' kısmında, yani oyun oynarken
 
 <img src="https://i.redd.it/2t89k2v84qf21.png">
 
-## Getting Started
+## Başlamadan Önce
 
 Orta, belki de giriş düzeyinde bir Python bilgisine ihtiyacınız olacak. Eğer sadece bu template üzerinden yazıları değiştirecekseniz Python bilmenize gerek yok.
 
-### Dependencies
+### Gereksinimler
 
 * Python 3.8.2
 * macOS 10.12 (Sierra) üstü, Linux (tercihen ubuntu veya debian), Windows (7 ve üstü)
